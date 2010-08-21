@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://bylochacon.com/Globaleyes/Blog</link>
+    <description>We believe that a blog is key to maintaining the transparent nature of Globaleyes. Here is where will we put all our updates.  </description>
+    <item>
+      <title>Getting Back on Our Feet</title>
+      <link>http://bylochacon.com/Globaleyes/Blog/Entries/2010/8/20_Getting_Back_on_Our_Feet.html</link>
+      <guid isPermaLink="false">407b23a9-b5f6-4630-b065-6d4936372a6d</guid>
+      <pubDate>Fri, 20 Aug 2010 19:13:46 -0700</pubDate>
+      <description>Sadly, we lost the data from our old site (a very nice one), and are having to start from scratch.  This one will hopefully be improved in the future, but for now it will hold all the basic information.  </description>
+      <iweb:image href="Media/Obede%20Boys%20Soccer.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://bylochacon.com/Globaleyes/Blog/Entries/2010/8/20_Getting_Back_on_Our_Feet.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://bylochacon.com/Globaleyes/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

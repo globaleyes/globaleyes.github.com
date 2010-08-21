@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="1402E9CD-B5EE-41C9-BD18-5F9AE936AD23">
+  <lastEdited clientType="local-build-20100821" date="2010-08-21 14:45:44 -0700"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Getting Back on Our Feet&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, August 20, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sadly, we lost the data from our old site (a very nice one), and are having to start from scratch.  This one will hopefully be improved in the future, but for now it will hold all the basic information.  &lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="20_Getting_Back_on_Our_Feet_files/shapeimage_1.jpg" left="0px" top="0px" width="700px" height="400px"/>
+</content>
